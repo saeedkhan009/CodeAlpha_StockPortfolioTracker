@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+
+AAPL : 4 × $180.00 = $720.00
+GOOG : 4 × $140.00 = $560.00
+
+Total Investment: $1,280.00
